@@ -1,0 +1,424 @@
+//SX guitar banjo
+
+<global>
+ampeg_release=0.25
+
+<region>
+sample=Common\Banjo_Common - D#3.wav
+lokey=38
+hikey=39
+pitch_keycenter=39
+
+<region>
+sample=Common\Banjo_Common - E3.wav
+lokey=40
+hikey=40
+pitch_keycenter=40
+
+<region>
+sample=Common\Banjo_Common - F3.wav
+lokey=41
+hikey=41
+pitch_keycenter=41
+
+<region>
+sample=Common\Banjo_Common - F#3.wav
+lokey=42
+hikey=42
+seq_length=2
+pitch_keycenter=42
+
+<region>
+sample=Common\Banjo_Common - F#3_2.wav
+lokey=42
+hikey=42
+seq_length=2
+seq_position=2
+pitch_keycenter=42
+
+<region>
+sample=Common\Banjo_Common - G3.wav
+lokey=43
+hikey=43
+pitch_keycenter=43
+
+<region>
+sample=Common\Banjo_Common - G#3.wav
+lokey=44
+hikey=44
+seq_length=2
+pitch_keycenter=44
+
+<region>
+sample=Common\Banjo_Common - G#3_2.wav
+lokey=44
+hikey=44
+seq_length=2
+seq_position=2
+pitch_keycenter=44
+
+<region>
+sample=Common\Banjo_Common - A3.wav
+lokey=45
+hikey=45
+seq_length=2
+pitch_keycenter=45
+
+<region>
+sample=Common\Banjo_Common - A3_2.wav
+lokey=45
+hikey=45
+seq_length=2
+seq_position=2
+pitch_keycenter=45
+
+<region>
+sample=Common\Banjo_Common - A#3.wav
+lokey=46
+hikey=46
+pitch_keycenter=46
+
+<region>
+sample=Common\Banjo_Common - B3.wav
+lokey=47
+hikey=47
+pitch_keycenter=47
+
+<region>
+sample=Common\Banjo_Common - C#4.wav
+lokey=48
+hikey=49
+seq_length=2
+pitch_keycenter=49
+
+<region>
+sample=Common\Banjo_Common - C#4_2.wav
+lokey=48
+hikey=49
+seq_length=2
+seq_position=2
+pitch_keycenter=49
+
+<region>
+sample=Common\Banjo_Common - D4.wav
+lokey=50
+hikey=50
+pitch_keycenter=50
+
+<region>
+sample=Common\Banjo_Common - D#4.wav
+lokey=51
+hikey=51
+pitch_keycenter=51
+
+<region>
+sample=Common\Banjo_Common - E4.wav
+lokey=52
+hikey=52
+pitch_keycenter=52
+
+<region>
+sample=Common\Banjo_Common - F4.wav
+lokey=53
+hikey=53
+pitch_keycenter=53
+
+<region>
+sample=Common\Banjo_Common - F#4_2.wav
+lokey=54
+hikey=54
+seq_length=5
+pitch_keycenter=54
+
+<region>
+sample=Common\Banjo_Common - F#4_3.wav
+lokey=54
+hikey=54
+seq_length=5
+seq_position=2
+pitch_keycenter=54
+
+<region>
+sample=Common\Banjo_Common - F#4_5.wav
+lokey=54
+hikey=54
+seq_length=5
+seq_position=3
+pitch_keycenter=54
+
+<region>
+sample=Common\Banjo_Common - F#4_6.wav
+lokey=54
+hikey=54
+seq_length=5
+seq_position=4
+pitch_keycenter=54
+
+<region>
+sample=Common\Banjo_Common - F#4_7.wav
+lokey=54
+hikey=54
+seq_length=5
+seq_position=5
+pitch_keycenter=54
+
+<region>
+sample=Common\Banjo_Common - G4.wav
+lokey=55
+hikey=55
+seq_length=2
+pitch_keycenter=55
+
+<region>
+sample=Common\Banjo_Common - G4_2.wav
+lokey=55
+hikey=55
+seq_length=2
+seq_position=2
+pitch_keycenter=55
+
+<region>
+sample=Common\Banjo_Common - G#4.wav
+lokey=56
+hikey=56
+seq_length=6
+pitch_keycenter=56
+
+<region>
+sample=Common\Banjo_Common - G#4_2.wav
+lokey=56
+hikey=56
+seq_length=6
+seq_position=2
+pitch_keycenter=56
+
+<region>
+sample=Common\Banjo_Common - G#4_3.wav
+lokey=56
+hikey=56
+seq_length=6
+seq_position=3
+pitch_keycenter=56
+
+<region>
+sample=Common\Banjo_Common - G#4_4.wav
+lokey=56
+hikey=56
+seq_length=6
+seq_position=4
+pitch_keycenter=56
+
+<region>
+sample=Common\Banjo_Common - G#4_5.wav
+lokey=56
+hikey=56
+seq_length=6
+seq_position=5
+pitch_keycenter=56
+
+<region>
+sample=Common\Banjo_Common - G#4_6.wav
+lokey=56
+hikey=56
+seq_length=6
+seq_position=6
+pitch_keycenter=56
+
+<region>
+sample=Common\Banjo_Common - A4.wav
+lokey=57
+hikey=57
+seq_length=3
+pitch_keycenter=57
+
+<region>
+sample=Common\Banjo_Common - A4_2.wav
+lokey=57
+hikey=57
+seq_length=3
+seq_position=2
+pitch_keycenter=57
+
+<region>
+sample=Common\Banjo_Common - A4_3.wav
+lokey=57
+hikey=57
+seq_length=3
+seq_position=3
+pitch_keycenter=57
+
+<region>
+sample=Common\Banjo_Common - A#4.wav
+lokey=58
+hikey=58
+seq_length=11
+pitch_keycenter=58
+
+<region>
+sample=Common\Banjo_Common - A#4_2.wav
+lokey=58
+hikey=58
+seq_length=11
+seq_position=2
+pitch_keycenter=58
+
+<region>
+sample=Common\Banjo_Common - A#4_3.wav
+lokey=58
+hikey=58
+seq_length=11
+seq_position=3
+pitch_keycenter=58
+
+<region>
+sample=Common\Banjo_Common - A#4_4.wav
+lokey=58
+hikey=58
+seq_length=11
+seq_position=4
+pitch_keycenter=58
+
+<region>
+sample=Common\Banjo_Common - A#4_5.wav
+lokey=58
+hikey=58
+seq_length=11
+seq_position=5
+pitch_keycenter=58
+
+<region>
+sample=Common\Banjo_Common - A#4_6.wav
+lokey=58
+hikey=58
+seq_length=11
+seq_position=6
+pitch_keycenter=58
+
+<region>
+sample=Common\Banjo_Common - A#4_7.wav
+lokey=58
+hikey=58
+seq_length=11
+seq_position=7
+pitch_keycenter=58
+
+<region>
+sample=Common\Banjo_Common - A#4_8.wav
+lokey=58
+hikey=58
+seq_length=11
+seq_position=8
+pitch_keycenter=58
+
+<region>
+sample=Common\Banjo_Common - A#4_9.wav
+lokey=58
+hikey=58
+seq_length=11
+seq_position=9
+pitch_keycenter=58
+
+<region>
+sample=Common\Banjo_Common - A#4_10.wav
+lokey=58
+hikey=58
+seq_length=11
+seq_position=10
+pitch_keycenter=58
+
+<region>
+sample=Common\Banjo_Common - A#4_11.wav
+lokey=58
+hikey=58
+seq_length=11
+seq_position=11
+pitch_keycenter=58
+
+<region>
+sample=Common\Banjo_Common - B4.wav
+lokey=59
+hikey=59
+seq_length=5
+pitch_keycenter=59
+
+<region>
+sample=Common\Banjo_Common - B4_2.wav
+lokey=59
+hikey=59
+seq_length=5
+seq_position=2
+pitch_keycenter=59
+
+<region>
+sample=Common\Banjo_Common - B4_3.wav
+lokey=59
+hikey=59
+seq_length=5
+seq_position=3
+pitch_keycenter=59
+
+<region>
+sample=Common\Banjo_Common - B4_4.wav
+lokey=59
+hikey=59
+seq_length=5
+seq_position=4
+pitch_keycenter=59
+
+<region>
+sample=Common\Banjo_Common - B4_5.wav
+lokey=59
+hikey=59
+seq_length=5
+seq_position=5
+pitch_keycenter=59
+
+<region>
+sample=Common\Banjo_Common - C5.wav
+lokey=60
+hikey=60
+
+<region>
+sample=Common\Banjo_Common - C#5.wav
+lokey=61
+hikey=62
+pitch_keycenter=61
+
+<region>
+sample=Common\Banjo_Common - D#5_2.wav
+lokey=63
+hikey=65
+pitch_keycenter=63
+
+<region>
+sample=Common\Banjo_Common - G5.wav
+lokey=66
+hikey=67
+pitch_keycenter=67
+
+<region>
+sample=Common\Banjo_Common - G#5.wav
+lokey=68
+hikey=69
+seq_length=2
+pitch_keycenter=68
+
+<region>
+sample=Common\Banjo_Common - G#5_2.wav
+lokey=68
+hikey=69
+seq_length=2
+seq_position=2
+pitch_keycenter=68
+
+<region>
+sample=Common\Banjo_Common - A#5.wav
+lokey=70
+hikey=70
+pitch_keycenter=70
+
+<region>
+sample=Common\Banjo_Common - B5.wav
+lokey=71
+hikey=72
+pitch_keycenter=71
